@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Beatriz 👋
+
+- 🌱 I’m currently learning Unit tests and clean code.
+- 💬 Ask me about my skills and my repos
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beagonc/)
+- 😄 Pronouns: she/her - ela/dela.
+- ⚡ Fun fact: Firefox logo isn't a fox .
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biagonz&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **biagonz/biagonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
