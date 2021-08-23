@@ -1,6 +1,6 @@
 ### Hi there, I'm Beatriz 👋
 
-- 🌱 I’m currently learning Unit tests and clean code.
+- 🌱 I’m learning Unit tests and clean code.
 - 💬 Ask me about my skills and my repos
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beagonc/)
 - 😄 Pronouns: she/her - ela/dela.
